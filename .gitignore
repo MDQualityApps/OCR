@@ -1,0 +1,5 @@
+# Ignore the sustained-kit JSON file
+/sustained-kit-439515-f6-c8af444089d3.json
+
+# Ignore the vendor directory
+#/vendor/
